@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5620242D-473D-A4B7-96F8-DF3E181FFFD0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GridSpace.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/GridSpace.cs" Line="15" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tic-Tac-Toe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GridSpace.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0ea4ec3-a111-4c7c-8a90-ca79e3e55e6a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
